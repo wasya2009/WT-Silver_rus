@@ -1,0 +1,13 @@
+*.rpyc
+log.txt
+cashe
+saves
+*.psd
+*.rtf
+*.bat
+errors.txt
+traceback.txt
+info_update.txt
+readme.txt
+.android.json
+
